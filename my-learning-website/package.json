@@ -1,0 +1,23 @@
+{
+  "name": "my-learning-website",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons": "^0.0.11",
+    "axios": "^1.11.0",
+    "element-plus": "^2.11.1",
+    "vue": "^3.5.18",
+    "vue-router": "^4.5.1",
+    "vuex": "next"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vite": "^7.1.2"
+  }
+}
